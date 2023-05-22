@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -40,7 +39,6 @@ plt.tight_layout()
 plt.show()
 
 
-=======
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -82,4 +80,3 @@ plt.tight_layout()
 plt.show()
 
 
->>>>>>> origin/main

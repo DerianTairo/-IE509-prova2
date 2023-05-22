@@ -20,7 +20,5 @@ plt.axhline(y=mu2, color='g', linestyle='--', label='Média Verdadeira X2')
 plt.xlabel('Tamanho da Amostra')
 plt.ylabel('Média Amostral')
 plt.legend()
-plt.show()
-
 plt.savefig('convergence_plot.png')
 plt.show()

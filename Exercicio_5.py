@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import factorial
@@ -42,7 +41,6 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-=======
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import factorial
@@ -86,4 +84,3 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
->>>>>>> origin/main

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -19,7 +18,6 @@ plt.title('Número Médio de Usuários no Servidor em função da Intensidade do
 plt.legend()
 plt.grid(True)
 plt.show()
-=======
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -40,4 +38,3 @@ plt.title('Número Médio de Usuários no Servidor em função da Intensidade do
 plt.legend()
 plt.grid(True)
 plt.show()
->>>>>>> origin/main

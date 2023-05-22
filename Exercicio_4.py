@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -23,7 +22,6 @@ plt.title('Histograma e PDF teórica do tempo entre chegadas')
 plt.legend()
 plt.grid(True)
 plt.show()
-=======
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -48,4 +46,3 @@ plt.title('Histograma e PDF teórica do tempo entre chegadas')
 plt.legend()
 plt.grid(True)
 plt.show()
->>>>>>> origin/main
